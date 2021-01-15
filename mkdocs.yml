@@ -1,0 +1,7 @@
+site_name: Fiori Tracker Business
+nav:
+    - Overview: ftbus.md
+    - Catalog Import: ci/FPS01/main.md
+    - Installation: inst.md
+    - FAQ: faq.md 
+theme: material
