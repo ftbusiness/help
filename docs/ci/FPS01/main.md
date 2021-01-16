@@ -4,7 +4,7 @@ The tool lets you list the catalogs from all your systems and import them to [Fi
 
 ![](res/ci.png)
 
-## [Installation](../../inst.md)
+## [Installation](inst.md)
 
 ## Dependencies
 Requires: [As-is API](https://help.fioritracker.org/2020/#/asis/FPS01/main) (free)

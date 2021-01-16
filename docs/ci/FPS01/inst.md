@@ -2,10 +2,10 @@
 
 General Basis expert steps
 
-1. [Obtain the transport files from Nype representative](inst/step-1.md) - files for Release `2020FPS01` 
-2. [Activate Frontend ICF nodes](inst/step-2.md) for node `zftcatimport`
-3. [Enable backend odata service](inst/step-3.md) for service `ZNYPECICEN_SRV`
-4. [Assign pfcg roles](inst/step-4.md) for role `ZNYPE_CI`
+1. [Obtain the transport files from Nype's representative](../../../inst/step-1) - files for Release `2020FPS01` 
+2. [Activate Frontend ICF nodes](../../../inst/step-2) for node `zftcatimport`
+3. [Enable backend odata service](../../../inst/step-3) for service `ZNYPECICEN_SRV`
+4. [Assign pfcg roles](../../../inst/step-4) for role `ZNYPE_CI`
 
 As-is plugin, Basis expert steps
 
