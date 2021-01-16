@@ -7,3 +7,14 @@ theme:
   name: 'material'
   favicon: 'assets/images/favicon.ico'
   logo: 'assets/images/logo.png'
+plugins:
+  - macros
+extra:
+  prod:
+    ci:
+      name: 'Catalog Import'
+      main: '2020'
+      latestrel: 'SPS02'
+      cen: 'X'
+      man: ''
+  
