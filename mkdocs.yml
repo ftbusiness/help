@@ -9,6 +9,8 @@ theme:
   logo: 'assets/images/logo.png'
 plugins:
   - macros
+extra_css:
+  - stylesheets/extra.css
 extra:
   prod:
     ci:
