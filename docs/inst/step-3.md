@@ -2,7 +2,8 @@
 
 To enable oData service complete the sub-steps described below. 
 
-> When description refers to `Service name`, you need to put the service’s name of the run application. If you don't know the `Service name` please refer to the technical section of each product.
+!!! Note
+    When description refers to `Service name`, you need to put the service’s name of the run application. If you don't know the `Service name` please refer to the technical section of each product.
 
 ### 1. Generate Runtime objects in transaction SEGW
 

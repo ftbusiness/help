@@ -4,5 +4,6 @@ To install Fiori Tracker Business products please follow the installations guide
 
 We designed each Fiori Tracker Business product to work independently. Once you install the product and any dependent products are needed, it will guide the user to install those.
 
-> Release 2020 FPS01 is not downward compatible with previous releases. It should **not** be installed on top of older releases. If you have used previous releases and would like to move to release 2020 FPS01 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com)
+!!! Note
+    Release 2020 FPS01 is not downward compatible with previous releases. It should **not** be installed on top of older releases. If you have used previous releases and would like to move to release 2020 FPS01 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com)
 
