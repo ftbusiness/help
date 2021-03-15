@@ -1,6 +1,7 @@
 site_name: Fiori Tracker Business
 nav:
     - Catalog Import: ci/SPS02/main.md
+    - Fiori Apps' Usage Report: fa.md
     - Installation: inst.md
 theme: 
   name: 'material'
