@@ -7,3 +7,13 @@ We designed each Fiori Tracker Business product to work independently. Once you 
 !!! Note
     Release 2020 FPS01 is not downward compatible with previous releases. It should **not** be installed on top of older releases. If you have used previous releases and would like to move to release 2020 FPS01 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com)
 
+## Compatibility
+
+The list should be read as (for example): *Catalog Import release SPS02 requires "As-is" in release SPS02*.
+
+
+| Main product              | Main prod. release | Uses product | Compatible release  |
+| ------------------------- | ------- | ------------- | ------------------- |
+| Catalog Import            | SPS02   | As-is         | {{ prod.ci.R2020SPS02.compatibleAsisCenRel }}               |
+|                           |         | Core          | SPS03, SPS02, FPS01 |
+

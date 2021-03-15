@@ -7,7 +7,7 @@ The tool lets you list the catalogs from all your systems and import them to [Fi
 ## [Installation](inst.md)
 
 ## Dependencies
-Requires: [As-is API]({{ prod.ci.compatibleAsisMainLink }}) (free)
+Requires: [As-is API]({{ prod.ci.2020FPS01.compatibleAsisMainLink }}) (free)
 
 ## Location
 Located on Central system
@@ -16,7 +16,7 @@ Located on Central system
 None.
 
 ## Other applications that might use the product
-[Fiori Tracker Core]({{ prod.ci.compatibleCoreLink }})
+[Fiori Tracker Core]({{ prod.ci.2020FPS01.compatibleCoreLink }})
 
 ## [Technical information](tech.md)
 
