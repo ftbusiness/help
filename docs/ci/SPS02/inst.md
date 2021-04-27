@@ -6,6 +6,7 @@ General Basis expert steps
 2. [Activate Frontend ICF nodes](../../../inst/step-2) for node `zftcatimport`
 3. [Enable backend odata service](../../../inst/step-3) for service `ZNYPECICEN_SRV`
 4. [Assign pfcg roles](../../../inst/step-4) for role `ZNYPE_CI`
+5. [Enter the activation key](../../../inst/step-5)
 
 As-is plugin, Basis expert steps
 
