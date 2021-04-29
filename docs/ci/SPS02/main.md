@@ -2,9 +2,7 @@
 
 The tool lets you list the catalogs from all your systems and import them to [Fiori Tracker Core]( {{ prod.ci.R2020SPS02.compatibleCoreLink }} ) for documentation purposes (stored as so-called "To-be" records). Catalog Import uses free ["As-is" API]({{ prod.ci.R2020SPS02.compatibleAsisMainLink }}).
 
-
-
-![](res/ci.png)
+[![](res/ci.png)](res/ci.png)
 
 ## [Installation](inst.md)
 

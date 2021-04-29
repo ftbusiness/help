@@ -1,6 +1,8 @@
 site_name: Fiori Tracker Business
 nav:
     - Catalog Import: ci/SPS02/main.md
+    - Apps Import: ai/FPS01/main.md
+    - Mappings Import: mi/FPS01/main.md
     - Fiori Apps' Usage Report: fa.md
     - Installation: inst.md
 theme: 
@@ -27,6 +29,24 @@ extra:
         compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/FPS01/inst-man/'
       R2020SPS02:
         rel: 'SPS02'
+        compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
+        compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
+        compatibleAsisCenRel: 'SPS02'
+        compatibleAsisCenLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/'
+        compatibleAsisManRel: 'SPS02'
+        compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'
+    ai:
+      R2020FPS01:
+        rel: 'FPS01'
+        compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
+        compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
+        compatibleAsisCenRel: 'SPS02'
+        compatibleAsisCenLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/'
+        compatibleAsisManRel: 'SPS02'
+        compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'
+    mi:
+      R2020FPS01:
+        rel: 'FPS01'
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
         compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
         compatibleAsisCenRel: 'SPS02'

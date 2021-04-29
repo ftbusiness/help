@@ -2,7 +2,7 @@
 
 General Basis expert steps
 
-1. [Obtain the transport files from Nype's representative](../../../inst/step-1) - files for Release `2020FPS02` 
+1. [Obtain the transport files from Nype's representative](../../../inst/step-1) - files for Release `2020SPS02` 
 2. [Activate Frontend ICF nodes](../../../inst/step-2) for node `zftcatimport`
 3. [Enable backend odata service](../../../inst/step-3) for service `ZNYPECICEN_SRV`
 4. [Assign pfcg roles](../../../inst/step-4) for role `ZNYPE_CI`
