@@ -5,4 +5,6 @@ Fiori Tracker Business is a set of paid add-ons to free [Fiori Tracker Suite](ht
 
 [Catalog Import](ci/FPS01/main.md) - {{ prod.ci.R2020SPS02.descr }}
 
-[Apps Import](ai/FPs01/main.md) - {{ prod.ai.R2020FPS01.descr }}
+[Apps Import](ai/FPS01/main.md) - {{ prod.ai.R2020FPS01.descr }}
+
+[Mappings Import](mi/FPS01/main.md) - {{ prod.mi.R2020FPS01.descr }}
