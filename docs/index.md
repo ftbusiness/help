@@ -1,7 +1,7 @@
 # Overview
-Fiori Tracker Business is a set of paid add-ons to free [Fiori Tracker Suite](https://help.fioritracker.org/2020/#/suite/SPS02/main).
+Fiori Tracker Business is a set of paid add-ons to free [Fiori Tracker Suite](https://help.fioritracker.org).
 
-## List of all available add-ons:
+## List of all available add-ons
 
 [Catalog Import](ci/FPS01/main.md) - {{ prod.ci.R2020SPS02.descr }}
 
