@@ -3,4 +3,6 @@ Fiori Tracker Business is a set of paid add-ons to free [Fiori Tracker Suite](ht
 
 ## List of all available add-ons:
 
-[Catalog Import](ci/FPS01/main.md) - Lets you import your catalogs from your system into the FT catalogs list
+[Catalog Import](ci/FPS01/main.md) - {{ prod.ci.R2020SPS02.descr }}
+
+[Apps Import](ai/FPs01/main.md) - {{ prod.ai.R2020FPS01.descr }}

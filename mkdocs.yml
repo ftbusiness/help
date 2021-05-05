@@ -20,6 +20,7 @@ extra:
   prod:
     ci:
       R2020FPS01:
+        descr: 'Lets you import your catalogs from your system into the FT catalogs list'
         rel: 'FPS01'
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS02/main/'
         compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/FPS01/main/'
@@ -28,6 +29,7 @@ extra:
         compatibleAsisManRel: 'FPS01'
         compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/FPS01/inst-man/'
       R2020SPS02:
+        descr: 'Lets you import your catalogs from your system into the FT catalogs list'
         rel: 'SPS02'
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
         compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
@@ -37,6 +39,7 @@ extra:
         compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'
     ai:
       R2020FPS01:
+        descr: 'Lets you import your apps from your system into the FT apps list'
         rel: 'FPS01'
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
         compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
@@ -46,6 +49,7 @@ extra:
         compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'
     mi:
       R2020FPS01:
+        descr: 'Lets you import your apps to catalogs mappings from your system into the FT catalog apps relations'
         rel: 'FPS01'
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
         compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
