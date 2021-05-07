@@ -30,6 +30,7 @@ extra:
         compatibleAsisManRel: 'FPS01'
         compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/FPS01/inst-man/'
       R2020SPS02:
+        name: 'Catalog Import'
         descr: 'Lets you import your catalogs from your system into the FT catalogs list'
         rel: 'SPS02'
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
@@ -38,8 +39,10 @@ extra:
         compatibleAsisCenLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/'
         compatibleAsisManRel: 'SPS02'
         compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'
+        rep: 'ci'
     ai:
       R2020FPS01:
+        name: 'Apps Import'
         descr: 'Lets you import your apps from your system into the FT apps list'
         rel: 'FPS01'
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
@@ -48,8 +51,10 @@ extra:
         compatibleAsisCenLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/'
         compatibleAsisManRel: 'SPS02'
         compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'
+        rep: 'ai'
     mi:
       R2020FPS01:
+        name: 'Mappings Import'
         descr: 'Lets you import your apps to catalogs mappings from your system into the FT catalog apps relations'
         rel: 'FPS01'
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
@@ -58,3 +63,28 @@ extra:
         compatibleAsisCenLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/'
         compatibleAsisManRel: 'SPS02'
         compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'
+        rep: 'mi'
+    fa:
+      R2020FPS01:
+        name: 'Fiori Apps Usage Report'
+        descr: 'Lets you import your apps to catalogs mappings from your system into the FT catalog apps relations'
+        rel: 'FPS01'
+        compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
+        compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
+        compatibleAsisCenRel: 'SPS02'
+        compatibleAsisCenLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/'
+        compatibleAsisManRel: 'SPS02'
+        compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'        
+        rep: 'fa'
+    fap:
+      R2020FPS01:
+        name: 'Fiori Apps Usage Plugin'
+        descr: 'Lets you import your apps to catalogs mappings from your system into the FT catalog apps relations'
+        rel: 'FPS01'
+        compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
+        compatibleAsisMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
+        compatibleAsisCenRel: 'SPS02'
+        compatibleAsisCenLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/'
+        compatibleAsisManRel: 'SPS02'
+        compatibleAsisManLink: 'https://help.fioritracker.org/V2020/asis/SPS02/inst-man/'
+        rep: 'fap'
