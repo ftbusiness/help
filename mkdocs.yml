@@ -5,6 +5,7 @@ nav:
     - Mappings Import: mi/FPS01/main.md
     - Fiori Apps' Usage Report: fa.md
     - Installation: inst.md
+    - Bugs or ideas: bugs-ideas.md
 theme: 
   name: 'material'
   favicon: 'assets/images/favicon.ico'
