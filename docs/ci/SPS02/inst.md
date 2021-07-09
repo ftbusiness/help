@@ -12,5 +12,6 @@ As-is plugin, Basis expert steps
 
 1. [Install As-is on Central system]({{ prod.ci.R2020SPS02.compatibleAsisCenLink }})
 2. [Install As-is on each Managed system]({{ prod.ci.R2020SPS02.compatibleAsisManLink }}) 
+3. Set PUBLISH parameter to 'X' in As-is API config (data is copied on Data collection requests)
 
 If you are installing Catalog Import for the first time please check [Evaluation deployment](eval-dep.md) for details on installing Catalog Import to one system (f.e. Sandbox).

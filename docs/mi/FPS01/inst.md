@@ -12,4 +12,5 @@ As-is plugin, Basis expert steps
 
 1. [Install As-is on Central system]({{ prod.mi.R2020FPS01.compatibleAsisCenLink }})
 2. [Install As-is on each Managed system]({{ prod.mi.R2020FPS01.compatibleAsisManLink }}) 
+3. Set PUBLISH parameter to 'X' in As-is API config (data is copied on Data collection requests)
 
