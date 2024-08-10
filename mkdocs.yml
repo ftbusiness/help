@@ -1,11 +1,7 @@
-site_name: Fiori Tracker Business
+site_name: Fiori Tracker
 nav:
     - Catalog Import: ci/SPS02/main.md
-    - Apps Import: ai/FPS01/main.md
     - Mappings Import: mi/FPS01/main.md
-    - Fiori Apps' Usage Report: fa.md
-    - Installation: inst.md
-    - Bugs or ideas: bugs-ideas.md
 theme: 
   name: 'material'
   favicon: 'assets/images/favicon.ico'
